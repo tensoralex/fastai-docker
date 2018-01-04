@@ -6,7 +6,9 @@
 
 ## Prerequisites:
 * Docker installed
-* For use on GPU - [nvidia-docker](https://github.com/NVIDIA/nvidia-docker) should be installed additionally
+* To run image on GPU:
+  - nvidia drivers should be installed on host
+  - [nvidia-docker](https://github.com/NVIDIA/nvidia-docker) should be installed additionally
 
 ## Usage:
 
